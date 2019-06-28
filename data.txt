@@ -1,0 +1,21 @@
+
+ 					***Marksheet***
+Student's Bio-Data: 
+Name: Muhammad Asjal Khan
+Father Name: Muhammad Amir Khan
+Age: 18
+
+Summary of Marks: 
+Statistics: 88
+Linear Algebra:70
+Discrete Mathematics:55
+Data Structures:78
+Automata Theory:66
+Calculus I:98
+
+Obtained Marks: 455
+Percentage: 75.83333333333333
+Grade: B
+
+ 					keep Working Hard!
+
